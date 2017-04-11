@@ -1,0 +1,31 @@
+.landing-container {
+  background: url('../assets/images/background.png') no-repeat fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.landing-platform {
+  left: 0px;
+  background: url('../assets/images/block.png') repeat-x;
+  height: 90px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.landing-ana {
+  text-align: center !important;
+  margin: 0 auto;
+  bottom: 90px;
+  position: absolute;
+}
+
+.placeholder {
+  height: 300px;
+}
